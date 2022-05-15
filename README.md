@@ -1,4 +1,4 @@
--  Ola, meu nome é Tarcísio. Estou estudando JavaScript.
+-  Olá, meu nome é Tarcísio. Estou estudando JavaScript.
 -  Seja bem vindo!
 <div align="center">
   <a href="https://github.com/tatahelder">
